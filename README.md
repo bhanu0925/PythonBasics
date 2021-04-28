@@ -39,3 +39,6 @@ same order as plain?
 7. Make a default dictionary called dict_of_lists and pass it the argument list. Make the list
 dict_of_lists[&#39;a&#39;] and append the value &#39;something for a&#39; to it in one assignment. Print
 dict_of_lists[&#39;a&#39;].
+
+
+
