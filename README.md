@@ -24,3 +24,18 @@ for loop to find and print the third value returned.
 the code to catch this exception and print &#39;Caught an oops&#39;.
 11. Use zip() to make a dictionary called movies that pairs these lists: titles = [&#39;Creature of Habit&#39;,
 &#39;Crewel Fate&#39;] and plots = [&#39;A nun turns into a monster&#39;, &#39;A haunted yarn shop&#39;].
+
+
+PythonBasics_18
+
+1. Create a zoo.py file first. Define the hours() function, which prints the string &#39;Open 9-5 daily&#39;.
+Then, use the interactive interpreter to import the zoo module and call its hours() function.
+2. In the interactive interpreter, import the zoo module as menagerie and call its hours() function.
+3. Using the interpreter, explicitly import and call the hours() function from zoo.
+4. Import the hours() function as info and call it.
+5. Create a plain dictionary with the key-value pairs &#39;a&#39;: 1, &#39;b&#39;: 2, and &#39;c&#39;: 3, and print it out.
+6.Make an OrderedDict called fancy from the same pairs listed in 5 and print it. Did it print in the
+same order as plain?
+7. Make a default dictionary called dict_of_lists and pass it the argument list. Make the list
+dict_of_lists[&#39;a&#39;] and append the value &#39;something for a&#39; to it in one assignment. Print
+dict_of_lists[&#39;a&#39;].
