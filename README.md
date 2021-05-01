@@ -54,7 +54,6 @@ print(&#39;spam&#39;)
 print(&#39;spam&#39;)
 8. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in spam, and prints
 Greetings! if anything else is stored in spam.
-
 9.If your programme is stuck in an endless loop, what keys you’ll press?
 10. How can you tell the difference between break and continue?
 11. In a for loop, what is the difference between range(10), range(0, 10), and range(0, 10, 1)?
