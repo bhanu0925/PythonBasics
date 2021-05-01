@@ -2,13 +2,13 @@
 
 1. In the below elements which of them are values or an expression? eg:- values can be
 integer or string and expressions will be mathematical operators.
-*
-&#39;hello&#39;
--87.8
--
-/
-+
-6
+  *
+  'hello'
+   -87.8
+  -
+  /
+  +
+  6
 
 2. What is the difference between string and variable?
 
@@ -395,7 +395,7 @@ dict_of_lists[&#39;a&#39;] and append the value &#39;something for a&#39; to it 
 dict_of_lists[&#39;a&#39;].
 
 
-****PythonBasics_19
+**PythonBasics_19**
 
 1. Make a class called Thing with no contents and print it. Then, create an object called example
 from this class and also print it. Are the printed values the same or different?
@@ -448,7 +448,7 @@ Redis hash called test with the fields count (1) and name (&#39;Fester Bestertes
 test.
 10. Increment the count field of test and print it.
 
-****PythonBasics_21
+**PythonBasics_21**
 
 1. Add the current date to the text file today.txt as a string.
 2. Read the text file today.txt into the string today_string
@@ -553,7 +553,7 @@ print(a, kargs)
 &gt;&gt;&gt; l, m, n
 
 
-****PythonBasics_24
+**PythonBasics_24**
 
 1. What is the relationship between def statements and lambda expressions ?
 2. What is the benefit of lambda?
